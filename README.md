@@ -1,4 +1,4 @@
-# 3D Reconstruction and Bundle Adjustment – HW4
+# 3D Reconstruction and Bundle Adjustment
 
 This project focuses on **3D image registration and reconstruction** using the **Buddha dataset**. It implements a full pipeline for computing **fundamental matrices**, **triangulating 3D points**, and performing **bundle adjustment** using tools such as **GTSAM**, **OpenCV**, or **SciPy**.  
 
